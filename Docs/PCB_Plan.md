@@ -4,7 +4,7 @@
 
 - ESP32 C3 Supermini
 - 2x 18650 cell holder
-- 2x 18650 cells
+- 2x 18650 cells (already have)
 - 20a 2s balanced bms
 - 2s l-ion battery step up charger
 - tmc2209
@@ -39,12 +39,3 @@
 
 ## Plan
 ESP32, Stepper Driver and most components on one side. Battery holder solderd to other side. Detachable solar panel for upgradeability.
-
----
-
-#### other
-• 10µF Electrolytic Capacitor (Radial THT, minimum 16V or 25V rating) (C1: Input filter)
-• 22µF or 47µF Electrolytic Capacitor (Radial THT, 10V or 16V rating) (C2: Output buffer)
-• 0.1µF (100nF) Ceramic Disc Capacitor (Pitch 2.54mm) (C3: RF noise bypass)
-• THT Slide Switch or Toggle Switch (To cut battery power completely)
-• 2.54mm Female Header Pins (2 rows of 8-pins) (Optional: To socket the ESP32 instead of soldering it permanently)
