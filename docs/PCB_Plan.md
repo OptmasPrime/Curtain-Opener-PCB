@@ -10,7 +10,7 @@
 - tmc2209
 - temp/barometer sensor
 
-
+- 12mm Panel Mount Metal Momentary Push Button
 - THT Slide Switch or Toggle Switch
 - 2.54mm Female Header Pins (2x8 for esp, 2x8 for stepper driver)
 - 2.54mm Male Pin Headers. Just get a couple sets of 40.
@@ -18,10 +18,11 @@
 
 - N Channel MOSFET: 2N7000 (TO-92 package) - to pull second mosfet low
 - P Channel MOSFET: NDP6020P - to stop charge input from usb (changed by n channel)
+- Small P Channel Mosfet to stop charge to stepper driver.
 
-- 2.54mm Screw Terminal Blocks (2-Pin) 1x for spare power, 2x(2) for stepper, 2x(2) for i2c, 2x(2) for batt
+- 2.54mm Screw Terminal Blocks (2-Pin) 1x for spare power, 2x(2) for stepper, 2x(2) for i2c, 2x(2) for batt, 1x for button
 
-- k7803 1000r3
+- k7805 1000r3
 - 10µF Electrolytic Capacitor (Radial THT, minimum 16V or 25V rating)
 - 22µF or 47µF Electrolytic Capacitor (Radial THT, 10V or 16V rating)
 - 0.1µF (100nF) Ceramic Disc Capacitor (Pitch 2.54mm)
