@@ -16,6 +16,7 @@
 | GPIO 8 | Onboard LED | |
 | GPIO 9 | BOOT Button | |
 | GPIO 10 | SPI CS | Physical Toggle Button (Wake Capable) |
-| GPIO 20 | UART RX | USB Charge Isolation Circuit |
+| GPIO 20 | UART RX |  |
 | GPIO 21 | UART TX | Motor EN Pin |
 
+GPIO 20 used to have the **_USB Charge Isolation Circuit_**, but removed it
