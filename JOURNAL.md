@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 2 | 12.57h | 5 |
+| Week 1 | Tier 2 | 12.97h | 5 |
 
 ## Contents
 
@@ -80,7 +80,7 @@ Current state of things:
 
 ### 2026-10-09 – # Started Circuitry
 
-**3.77h**
+**4.17h**
 
 # Started Circuitry
 
