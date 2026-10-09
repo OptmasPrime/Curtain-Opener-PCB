@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 2 | 11.67h | 5 |
+| Week 1 | Tier 2 | 12.07h | 5 |
 
 ## Contents
 
@@ -46,7 +46,7 @@ Decided to go with the ESP32 C3 Supermini for the small size. Spent the session 
 
 ### 2026-10-07 – # Did the bulk of the Schematic work
 
-**3.28h**
+**3.68h**
 
 # Did the bulk of the Schematic work
 
