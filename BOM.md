@@ -19,7 +19,7 @@
 | [Desoldering braid and Kapton Tape](https://aliexpress.com) | Helping with my bad soldering skills | 1 | $3.50 | $3.50 | [Aliexpress](https://aliexpress.com) |
 | [PCB](https://jlcpcb.com) | The base custom PCB - not a quote. just placeholder | 1 | $15.00 | $15.00 | [JLCPCB](https://jlcpcb.com) |
 | **Parts subtotal** | — | — | — | **$60.00** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$60.00** | — |
+| **Tax & shipping** | — | — | — | **$5.00** | — |
+| **Total** | — | — | — | **$65.00** | — |
 
-$5.00 left of the tier's funding.
+$0.00 left of the tier's funding.
