@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 2 | 12.07h | 5 |
+| Week 1 | Tier 2 | 12.57h | 5 |
 
 ## Contents
 
@@ -61,7 +61,7 @@ Hoping that from this point on its gets a bit easier, as so far its been pretty 
 
 ### 2026-10-08 – # Simplifying the Schematic
 
-**1.82h**
+**2.32h**
 
 # Simplifying the Schematic
 
