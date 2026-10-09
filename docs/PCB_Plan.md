@@ -30,9 +30,7 @@
 - 1x 220kΩ and 1x 120kΩ - Battery Voltage Divider resistors. (equally can do 22k and 12k, but has more current loss)
 
 #### Stepper motor choices
-- Already have a Nicdec Nema 17 kv4239-t2b013 which I could use
-- Could buy a Nema 17 pankake or a Nema 14, looking to be about £14
->e.g. [Nema 17 Pankake - Amazon £13](https://www.amazon.co.uk/STEPPERONLINE-Pancake-Stepper-Bipolar-Extruder/dp/B0B93PNYCP?th=1)
+- Using a Nema 17 pancake
 
 
 ## Plan
