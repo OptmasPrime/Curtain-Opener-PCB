@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 2 | 11.17h | 5 |
+| Week 1 | Tier 2 | 11.67h | 5 |
 
 ## Contents
 
@@ -35,7 +35,7 @@ Got initial idea to try and open a curtain. So started researching parts to use 
 
 ### 2026-10-07 – # Researching Parts
 
-**1.3h**
+**1.8h**
 
 # Researching Parts
 
