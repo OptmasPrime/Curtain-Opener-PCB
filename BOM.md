@@ -17,7 +17,7 @@
 | [Misc](https://aliexpress.com) | To get to the Aliexpress $48.46 total | 1 | $32.79 | $32.79 | [Aliexpress](https://aliexpress.com) |
 | [PCB](https://jlcpcb.com) | PCB | 1 | $4.00 | $4.00 | [JLCPCB](https://jlcpcb.com) |
 | **Parts subtotal** | — | — | — | **$52.46** | — |
-| **Tax & shipping** | — | — | — | **$5.00** | — |
-| **Total** | — | — | — | **$57.46** | — |
+| **Tax & shipping** | — | — | — | **$4.77** | — |
+| **Total** | — | — | — | **$57.23** | — |
 
-$7.54 left of the tier's funding.
+$7.77 left of the tier's funding.
