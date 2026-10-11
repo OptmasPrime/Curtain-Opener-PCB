@@ -1,4 +1,9 @@
 # Budget
+
+> **Somewhat outdated, but mostly along the general theme parts and price wise**
+
+Will be updated after parts are bought
+
 ## Aliexpress
 
 [£2.46 | 230pcs JST 2.54mm](https://www.aliexpress.com/item/1005006498660940.html?spm=a2g0o.productlist.main.9.45de13d0MWMiT3&algo_pvid=9aabc22d-acb6-49ae-836c-367fa23ef2d0&algo_exp_id=9aabc22d-acb6-49ae-836c-367fa23ef2d0-8&pdp_ext_f=%7B%22order%22%3A%222397%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%212.33%210.99%21%21%212.99%211.27%21%402103810f17915419150648640e0f0e%2112000037425305640%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A82373a1f%3Bm03_new_user%3A-29895%3BpisId%3A5000000218634824&curPageLogUid=YdLjRzqiFWe2&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006498660940%7C_p_origin_prod%3A)

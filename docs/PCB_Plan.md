@@ -16,17 +16,15 @@
 - 2.54mm Male Pin Headers. Just get a couple sets of 40.
 - Electrical tape
 
-- 2.54mm Screw Terminal Blocks (2-Pin) 1x for spare power, 2x(2) for stepper, 2x(2) for i2c, 2x(2) for batt, 1x for button
+- 2.54mm Screw Terminal Blocks or JST connector kit
 
-- k7805 1000r3
+- Mini Step down 5V buck converter
 - 10µF Electrolytic Capacitor (Radial THT, minimum 16V or 25V rating)
 - 22µF or 47µF Electrolytic Capacitor (Radial THT, 10V or 16V rating)
 - 0.1µF (100nF) Ceramic Disc Capacitor (Pitch 2.54mm)
 - 100µF or 220µF Electrolytic Capacitor (Radial THT, Rated 16V or 25V) - for tmc2209 power absorbtion
 
 #### Resistors
-- 100Ω Resistor - Protects ESP32 from spikes turning on 2N7000 MOSFET
-- 10kΩ Resistor - Pull up resistor that keeps P Channel mosfet off
 - 1x 220kΩ and 1x 120kΩ - Battery Voltage Divider resistors. (equally can do 22k and 12k, but has more current loss)
 
 #### Stepper motor choices
@@ -44,3 +42,4 @@ At some point will design and 3D print a case.
 - Solar panel circuitry as overcomplicated things
 - All Mosfets for Charging toggling - too complex
 - Nicdec kv4239-t2b013 in favour of Nema 17 pancake
+- k7805 1000r3, as not cost effective
