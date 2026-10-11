@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 2 | 18.55h | 7 |
+| Week 1 | Tier 2 | 19.05h | 7 |
 
 ## Contents
 
@@ -124,7 +124,7 @@ Also didn't realise that the TMC 2209 drivers have different pinouts on the modu
 
 ### 2026-10-11 – # Finished the Project
 
-**3.33h**
+**3.83h**
 
 # Finished the Project
 ### Finished Choosing Parts
