@@ -42,3 +42,4 @@ At some point will design and 3D print a case.
 - Nicdec kv4239-t2b013 in favour of Nema 17 pancake
 - k7805 1000r3, as not cost effective
 - Voltage divider for battery sensing in favour of module that could detect current - eg motor stalls
+- ESP32 C3 Supermini, as when looking at it, it was going to be quite a lot less power efficient - eg and entire order of magnitude off what the Seeed board could do in deep sleep
