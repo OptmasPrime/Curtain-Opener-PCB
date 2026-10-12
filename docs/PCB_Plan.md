@@ -2,13 +2,14 @@
 
 ## Parts
 
-- ESP32 C3 Supermini
+- Xiao Seeed ESP32 C6
 - 2x 18650 cell holder
 - 2x 18650 cells (already have)
 - 20a 2s balanced bms
 - 2s l-ion battery step up charger (usb5v)
 - tmc2209
 - temp/barometer sensor - likely BME280
+- INA219
 
 - 12mm Panel Mount Metal Momentary Push Button
 - THT Slide Switch or Toggle Switch
@@ -23,9 +24,6 @@
 - 22µF or 47µF Electrolytic Capacitor (Radial THT, 10V or 16V rating)
 - 0.1µF (100nF) Ceramic Disc Capacitor (Pitch 2.54mm)
 - 100µF or 220µF Electrolytic Capacitor (Radial THT, Rated 16V or 25V) - for tmc2209 power absorbtion
-
-#### Resistors
-- 1x 220kΩ and 1x 120kΩ - Battery Voltage Divider resistors. (equally can do 22k and 12k, but has more current loss)
 
 #### Stepper motor choices
 - Using a Nema 17 pancake
@@ -43,3 +41,4 @@ At some point will design and 3D print a case.
 - All Mosfets for Charging toggling - too complex
 - Nicdec kv4239-t2b013 in favour of Nema 17 pancake
 - k7805 1000r3, as not cost effective
+- Voltage divider for battery sensing in favour of module that could detect current - eg motor stalls
